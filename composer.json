@@ -1,7 +1,7 @@
 {
     "name": "middlewares/content-length",
     "type": "library",
-    "description": "A content-length repository for PSR-15 middleware packages",
+    "description": "Middleware to inject the Content-Length header into the response based on the body size",
     "license": "MIT",
     "keywords": [
         "psr-7",
