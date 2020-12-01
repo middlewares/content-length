@@ -43,5 +43,4 @@ The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
 [ico-downloads]: https://img.shields.io/packagist/dt/middlewares/content-length.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/middlewares/content-length
-[link-scrutinizer]: https://scrutinizer-ci.com/g/middlewares/content-length
 [link-downloads]: https://packagist.org/packages/middlewares/content-length
