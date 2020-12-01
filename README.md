@@ -2,8 +2,7 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE)
-[![Build Status][ico-travis]][link-travis]
-[![Quality Score][ico-scrutinizer]][link-scrutinizer]
+![Testing][ico-ga]
 [![Total Downloads][ico-downloads]][link-downloads]
 
 Middleware to inject the Content-Length header into the response based on the body size.
@@ -40,11 +39,9 @@ The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/middlewares/content-length.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/middlewares/content-length/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/g/middlewares/content-length.svg?style=flat-square
+[ico-ga]: https://github.com/middlewares/content-length/workflows/testing/badge.svg
 [ico-downloads]: https://img.shields.io/packagist/dt/middlewares/content-length.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/middlewares/content-length
-[link-travis]: https://travis-ci.org/middlewares/content-length
 [link-scrutinizer]: https://scrutinizer-ci.com/g/middlewares/content-length
 [link-downloads]: https://packagist.org/packages/middlewares/content-length
